@@ -4,7 +4,7 @@ Restro is a responsive, single-page restaurant website showcasing a premium dini
 
 ## 🌐 Live Demo
 
-Visit the deployed website: [https://restro-five-lake.vercel.app/](https://restro-five-lake.vercel.app/)
+Visit the deployed website: [https://restro-five-lake.vercel.app/](https://restro-five-lake.vercel.app/){:target="_blank"}
 
 ## ✨ Features
 
@@ -123,9 +123,9 @@ Some footer links, social links, map links, and contact details are sample or pl
 
 Senior Web Developer | Node.js | Express.js | Next.js | React.js | Laravel
 
-🔗 GitHub: [Karthick-kannan-24](https://github.com/Karthick-kannan-24)
+🔗 GitHub: [Karthick-kannan-24](https://github.com/Karthick-kannan-24){:target="_blank"}
 
-🔗 LinkedIn: [Karthick Kannan R.](https://www.linkedin.com/in/Karthick-kannan-2421997/)
+🔗 LinkedIn: [Karthick Kannan R.](https://www.linkedin.com/in/Karthick-kannan-2421997/){:target="_blank"}
 
 ## 📄 License
 
