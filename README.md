@@ -4,7 +4,11 @@ Restro is a responsive, single-page restaurant website showcasing a premium dini
 
 ## 🌐 Live Demo
 
-Visit the deployed website: [https://restro-five-lake.vercel.app/](https://restro-five-lake.vercel.app/){:target="_blank"}
+Visit the deployed website:
+
+<a href="https://restro-five-lake.vercel.app/" target="_blank" rel="noopener noreferrer">
+  🚀 Open Restro Website
+</a>
 
 ## ✨ Features
 
